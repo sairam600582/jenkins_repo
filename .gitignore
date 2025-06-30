@@ -1,0 +1,9 @@
+
+*.rar
+*.zip
+*.exe
+*.pem
+*.tfstate
+*.tfstate.backup
+.terraform/
+Git/
